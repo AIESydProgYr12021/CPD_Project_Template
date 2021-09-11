@@ -34,6 +34,5 @@ The project can currently be built for both windows and webgl in the following w
 Daily builds of the project should be placed on the local campus network drive
 
 
-
 # Credits:
  Are there assets, sounds or media included within the project that require attributation? list them here:
