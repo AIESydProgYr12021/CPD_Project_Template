@@ -12,6 +12,7 @@ Members (example):
  - Sandra Dee: artist
 
 
+
 ## Build Steps:
 The project can currently be built for both windows and webgl in the following ways:
 
