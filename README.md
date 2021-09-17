@@ -31,8 +31,6 @@ The project can currently be built for both windows and webgl in the following w
     * WebGL Build: `builds/web/index.html`
 
 
-
-
 ## Daily Builds:
 Daily builds of the project should be placed on the local campus network drive
 
